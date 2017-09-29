@@ -27,5 +27,8 @@
   },
   "peerDependencies": {
     "appache": "^0.3.0"
+  },
+  "dependencies": {
+    "pretty-error": "^2.1.1"
   }
 }
