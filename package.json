@@ -3,9 +3,9 @@
   "version": "0.1.1",
   "description": "",
   "author": "Alex Shnayder <alex@shnayder.pro>",
-  "repository": "alex-shnayder/appache-pretty-errors",
-  "homepage": "https://github.com/alex-shnayder/appache-pretty-errors#readme",
-  "bugs": "https://github.com/alex-shnayder/appache-pretty-errors/issues",
+  "repository": "appache/appache-pretty-errors",
+  "homepage": "https://github.com/appache/appache-pretty-errors#readme",
+  "bugs": "https://github.com/appache/appache-pretty-errors/issues",
   "license": "ISC",
   "scripts": {
     "precommit": "lint-staged"
